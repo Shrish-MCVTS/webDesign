@@ -20,10 +20,12 @@ p{
     font-family: Impact;
     color:white;
     text-align: center;
+    
 }
 a{
     font-family: Impact;
     color:white;
+    font-size: 30px;
 }
 a:hover{
     color:aqua;
